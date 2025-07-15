@@ -14,5 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
