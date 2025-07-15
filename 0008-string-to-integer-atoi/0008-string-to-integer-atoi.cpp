@@ -17,13 +17,14 @@ public:
         }
         
         while(i<s.size() && isdigit(s[i])){
+            if(ans> (INT_MAX- (s[i]-'0'))/10){
+                return (sign==1)? INT_MAX: INT_MIN;
+            }
             ans= (ans*10)+ (s[i]-'0');
-            
-            if(sign*ans<= INT_MIN) return INT_MIN;
-            if(sign*ans >= INT_MAX) return INT_MAX;
+             i++;
 
-            i++;
         }
+
     return (sign * ans);
         
     }
