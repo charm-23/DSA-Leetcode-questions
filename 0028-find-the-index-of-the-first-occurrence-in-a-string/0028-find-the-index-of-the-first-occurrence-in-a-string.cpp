@@ -3,6 +3,8 @@ public:
     int strStr(string haystack, string needle) {
 
         if(needle.empty()) return 0;
+        if(needle.length()>haystack.length()) return -1; 
+
 
         for(int start=0; start<haystack.size(); start++){
             int j=0; 
