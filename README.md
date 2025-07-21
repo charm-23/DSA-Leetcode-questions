@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0165-compare-version-numbers) |
+| [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -51,4 +53,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
