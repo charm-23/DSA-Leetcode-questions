@@ -8,20 +8,19 @@ public:
 
         for(int i=0; i<n; i++){
             if(!visited[i]){
-                dfs(i, edges, curr_path, visited, n,0, maxcycle);
+                dfs(i, edges, curr_path, visited, n,1, maxcycle);
             }
         }
         return maxcycle;
     }
     
     void dfs(int node,vector<int>& edges, vector<int>&curr_path, vector<int>&visited, int n, int cyclen, int &maxcycle){
-        cyclen++;
         visited[node]=1; 
         curr_path[node]=cyclen;
 
         if(edges[node]!=-1){
             if(!visited[edges[node]]){
-                dfs(edges[node], edges, curr_path, visited, n, cyclen, maxcycle); {
+                dfs(edges[node], edges, curr_path, visited, n, cyclen+1, maxcycle); {
             
                 }
             }
