@@ -42,3 +42,8 @@ public:
         return true; 
     }
 };
+
+
+// dfs+ backtracking (curr_path) for checking cycles.
+
+// bfs + ans.size()==numCourses/ indegree[nodes]==0 for cycles 
