@@ -1,7 +1,9 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int>indegree(numCourses,0);
+        vector<int> visited(numCourses,0);
+        vector<int>ans; 
+        vector<int> curr_path(numCourses,0);
 
         unordered_map<int,vector<int>>adjlist; 
 
@@ -10,39 +12,33 @@ public:
             int b= prerequisites[i][1];
 
             adjlist[b].push_back(a); 
-            indegree[a]++;
+        
         }
-
-        return bfs(adjlist, indegree, numCourses);
-    }
-
-    vector<int> bfs(unordered_map<int,vector<int>>& adjlist, vector<int>& indegree, int numCourses ){
-        queue<int> q; 
-        vector<int> ans; 
 
         for(int i=0; i<numCourses; i++){
-            if(indegree[i]==0){
-                q.push(i);
+            if(!visited[i]){
+                if(!dfs(i, visited, adjlist, ans, curr_path)) return {};
             }
         }
 
-        while(!q.empty()){
-            int node= q.front(); 
-            q.pop(); 
-            ans.push_back(node);
+        reverse(ans.begin(), ans.end());
+        return ans; 
+    }
 
-            for(int ngbr: adjlist[node]){
-                indegree[ngbr]--; 
+    bool dfs(int node, vector<int>& visited, unordered_map<int,vector<int>> &adjlist, vector<int>& ans, vector<int> & curr_path){
+        visited[node]=1; 
+        curr_path[node]=1;
 
-                if(indegree[ngbr]==0) q.push(ngbr);
+        for(int ngbr: adjlist[node]){
+            if(!visited[ngbr]){
+                if(!dfs(ngbr, visited, adjlist, ans, curr_path)) return false;
             }
-        }
 
-        if(ans.size()== numCourses){
-            return ans;
+            else if(visited[ngbr] && curr_path[ngbr]==1) return false;
         }
-        else{
-            return {};
-        }
+        
+        curr_path[node]=0;
+        ans.push_back(node);
+        return true; 
     }
 };
