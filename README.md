@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
