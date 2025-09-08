@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0130-surrounded-regions) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 ## Greedy
