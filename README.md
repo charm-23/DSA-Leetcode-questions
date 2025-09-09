@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1036-rotting-oranges) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Trie
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
