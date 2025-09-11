@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0889-buddy-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0889-buddy-strings) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Math
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
