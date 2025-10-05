@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     int binarysearch( vector<int> &nums, int target, int low, int high){ 
         int mid= low+ (high-low)/2;
 
