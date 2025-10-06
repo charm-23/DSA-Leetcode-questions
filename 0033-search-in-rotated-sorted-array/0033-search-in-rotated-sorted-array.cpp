@@ -30,14 +30,14 @@ public:
             //left sorted 
 
             if(nums[low]<=nums[mid]){
-                if(binarysearch(nums, target, low, mid-1)!= -1) return binarysearch(nums, target, low, mid);
+                if(nums[low]<= target && target< nums[mid]) high=mid-1;
                 else low= mid+1;  
             } 
 
             //right sorted 
 
             else{
-                if(binarysearch(nums, target, mid+1, high)!= -1) return binarysearch(nums, target, mid+1 , high);
+                if(target> nums[mid] && target<=nums[high]) low= mid+1;
                 else high= mid-1; ;
             }
 
