@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0013-roman-to-integer) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Divide and Conquer
 |  |
