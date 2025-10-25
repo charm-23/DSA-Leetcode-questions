@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        vector<int> mpp(256, -1); 
+        map<char,int> mpp; 
         int n = s.length();
         int l = 0;
         int r = 0;
@@ -9,7 +9,7 @@ public:
         int len=0; 
 
         while (r < n) {  
-            if(mpp[s[r]]!= -1 && mpp[s[r]]>=l) {
+            if(mpp.find(s[r])!= mpp.end() && mpp[s[r]]>=l) {
                 l= mpp[s[r]]+1; 
             }
             len=r-l+1; 
