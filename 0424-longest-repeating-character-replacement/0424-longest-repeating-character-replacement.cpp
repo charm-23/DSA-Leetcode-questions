@@ -11,7 +11,6 @@ public:
 
             if((r-l+1)-maxfreq >k){
                 freq[s[l]-'A']--;
-                maxfreq=0; 
                 l=l+1;
             } 
             if((r-l+1)-maxfreq <=k){
