@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
@@ -217,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
