@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0889-buddy-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
+| [3468-find-the-encrypted-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3468-find-the-encrypted-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
