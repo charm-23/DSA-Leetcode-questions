@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
