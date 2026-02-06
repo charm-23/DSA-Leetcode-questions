@@ -15,17 +15,9 @@ public:
         int b= max(p->val, q->val); 
 
         while(root){
-            if(a== root->val || b== root->val){
-                return root; 
-            }
-            else if(a< root->val && root->val< b) return root; 
-
-            else if(a< root->val && b <root->val){
-                root= root->left; 
-            }
-            else{ 
-                root= root->right; 
-            }
+            if(b<root->val) root=root->left;
+            else if(a>root->val) root= root->right; 
+            else return root; 
         }
     return NULL; 
     }
