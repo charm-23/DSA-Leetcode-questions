@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1036-rotting-oranges](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,8 +326,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0040-combination-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
