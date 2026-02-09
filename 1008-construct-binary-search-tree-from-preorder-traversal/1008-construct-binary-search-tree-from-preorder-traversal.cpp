@@ -11,29 +11,16 @@
  */
 class Solution {
 public:
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
-        stack<TreeNode*> st; 
-        TreeNode* root= new TreeNode(preorder[0]); 
-        st.push(root); 
+    TreeNode* bstFromPreorder(vector<int>& preorder){
+        int i=0;
+        return helper(preorder, INT_MAX, i);
+    }
 
-        int i=1; 
-        while(i<preorder.size()){
-            TreeNode* node= new TreeNode(preorder[i]);
-            if(preorder[i]< st.top()->val){
-                st.top()->left= node; 
-            }
-
-            else{
-                TreeNode* parent= NULL; 
-                while(!st.empty() &&  preorder[i]> st.top()->val){
-                    parent= st.top(); 
-                    st.pop();  
-                }
-                parent->right= node; 
-            }
-        st.push(node); 
-        i++; 
-        }
-    return root;       
+    TreeNode* helper(vector<int>&preorder,int bound, int& i){
+        if(i==preorder.size()|| preorder[i]>bound) return NULL; 
+        TreeNode* node= new TreeNode(preorder[i++]); 
+        node->left= helper(preorder, node->val, i); 
+        node->right= helper(preorder, bound, i);
+        return node;
     }
 };
