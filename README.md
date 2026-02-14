@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0130-surrounded-regions) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0242-valid-anagram) |
