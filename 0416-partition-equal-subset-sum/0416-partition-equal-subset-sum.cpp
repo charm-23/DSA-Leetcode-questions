@@ -27,14 +27,7 @@ public:
         // without that element
         bool skip= helper(nums, i+1, curr, target, dp); 
 
-        if(take || skip){
-            dp[i][curr]= 1; 
-        }
-        else{
-            dp[i][curr]= 0; 
-        }
-
-    return dp[i][curr]; 
+    return dp[i][curr]= (take||skip); 
     }
 
     //bool is implicitly converted into int whenever required 
