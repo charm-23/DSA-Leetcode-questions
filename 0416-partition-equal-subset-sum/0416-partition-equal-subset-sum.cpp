@@ -1,6 +1,6 @@
 class Solution {
 public:
-// memoization 
+// tabulation/ bottom up
     bool canPartition(vector<int>& nums) {
         int n=nums.size();
         int sum=0;
