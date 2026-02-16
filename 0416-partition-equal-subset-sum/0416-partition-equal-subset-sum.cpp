@@ -10,27 +10,23 @@ public:
         if(sum%2 !=0) return false; 
 
         int target= sum/2; 
-        vector<vector<int>>dp(n, vector<int>(target+1,-1)); 
+        vector<vector<int>>dp(n+1, vector<int>(target+1,0));
+        //base case 
+        for(int i=0; i<=n; i++){
+            dp[i][0]= 1; 
+        }
 
-        return helper(nums, 0, 0, sum/2, dp); 
+        for(int i=1; i<=n; i++){
+            for(int j=1; j<=target; j++){
+                if(nums[i-1]<=j){
+                    dp[i][j]= (dp[i-1][j-nums[i-1]] || dp[i-1][j]); 
+                }
+                else{
+                    dp[i][j]= dp[i-1][j]; 
+                }
+            }
+        }
+        return dp[n][target];
     } 
 
-    bool helper(vector<int>& nums, int i, int curr,int target, vector<vector<int>>&dp){
-        if(curr==target) return true; 
-        if(i==nums.size() || curr>target) return false; 
-
-        if(dp[i][curr]!=-1) return dp[i][curr]; 
-
-        // trying to taking element 
-        bool take= helper(nums, i+1, curr+ nums[i], target, dp);  
-
-        // without that element
-        bool skip= helper(nums, i+1, curr, target, dp); 
-
-    return dp[i][curr]= (take||skip); 
-    }
-
-    //bool is implicitly converted into int whenever required 
-    // matrix= int cuz of three states {-1,0,1}; 
-    // 1== true, 0== false automatically :)) 
 };
