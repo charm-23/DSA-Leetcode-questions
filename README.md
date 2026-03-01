@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0058-length-of-last-word) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
