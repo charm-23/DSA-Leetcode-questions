@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0889-buddy-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 | [3468-find-the-encrypted-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3468-find-the-encrypted-string) |
