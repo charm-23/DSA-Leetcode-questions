@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0165-compare-version-numbers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0072-edit-distance) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0053-maximum-subarray) |
@@ -400,11 +403,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
