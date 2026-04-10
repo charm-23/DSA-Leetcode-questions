@@ -1,21 +1,18 @@
 class Solution {
 public:
-//SLIDING WINDOW
+//BRUTE FORCE 
     int lengthOfLongestSubstring(string s) {
         int maxlen=0; 
-        int l=0; int r=0; 
-        vector<int>freq(256,0); 
-
-        while(r<s.size()){
-            while(freq[s[r]]==1){
-                freq[s[l]]--; 
-                l++; 
+        for(int i=0; i<s.size(); i++){
+            string sub = ""; 
+            vector<int>freq(256,0); //all char comes within the ASCII value 0-255
+            for(int j=i; j<s.size(); j++){
+                if(freq[s[j]]==1) break; 
+                sub=sub+ s[j];
+                freq[s[j]]++; 
+                maxlen= max(maxlen, j-i+1);
             }
-            freq[s[r]]++; 
-            maxlen= max(maxlen, r-l+1);
-            r++; 
         }
-
     return maxlen; 
     }
 };
