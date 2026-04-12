@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
@@ -432,4 +435,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
