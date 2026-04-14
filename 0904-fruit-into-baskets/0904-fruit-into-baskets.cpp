@@ -9,9 +9,11 @@ public:
                 ans= max(ans, j-i+1); 
             }
             else if(mpp.size()>2){
-                mpp[fruits[i]]--;
-                if(mpp[fruits[i]]==0) mpp.erase(fruits[i]);
-                i++; 
+                while(mpp.size()>2){
+                    mpp[fruits[i]]--;
+                    if(mpp[fruits[i]]==0) mpp.erase(fruits[i]);
+                        i++;
+                } 
             }
             j++;
         }
