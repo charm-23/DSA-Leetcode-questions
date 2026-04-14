@@ -1,18 +1,23 @@
 class Solution {
 public:
-//BRUTE FORCE 
     int lengthOfLongestSubstring(string s) {
-        int maxlen=0; 
-        for(int i=0; i<s.size(); i++){
-            string sub = ""; 
-            vector<int>freq(256,0); //all char comes within the ASCII value 0-255
-            for(int j=i; j<s.size(); j++){
-                if(freq[s[j]]==1) break; 
-                sub=sub+ s[j];
-                freq[s[j]]++; 
-                maxlen= max(maxlen, j-i+1);
+        unordered_map<char,int>mpp; 
+        int i=0; int j=0; int len=0; 
+
+        while(j<s.size()){
+            mpp[s[j]]++; 
+
+            if(mpp[s[j]]==1){
+                len= max(len,j-i+1); 
             }
+            else{
+                while(mpp[s[j]]!=1){
+                    mpp[s[i]]--; 
+                    i++; 
+                }
+            }
+            j++; 
         }
-    return maxlen; 
+    return len;
     }
 };
