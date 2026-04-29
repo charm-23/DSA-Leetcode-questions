@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2187-minimum-time-to-complete-trips](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
+| [2187-minimum-time-to-complete-trips](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
 |  |
