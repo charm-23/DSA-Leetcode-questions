@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0066-plus-one) |
+| [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
 | [0973-k-closest-points-to-origin](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
