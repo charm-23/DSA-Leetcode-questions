@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
+| [0796-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0889-buddy-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
