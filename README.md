@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1861-rotating-the-box) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Trie
 |  |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
 |  |
