@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1590-make-sum-divisible-by-p](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1861-rotating-the-box](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1929-concatenation-of-array) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1590-make-sum-divisible-by-p) |
 ## Binary Search
 |  |
 | ------- |
