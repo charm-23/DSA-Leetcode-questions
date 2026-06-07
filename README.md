@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0046-permutations) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0090-subsets-ii) |
