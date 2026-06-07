@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0389-find-the-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0090-subsets-ii) |
 ## Stack
 |  |
 | ------- |
