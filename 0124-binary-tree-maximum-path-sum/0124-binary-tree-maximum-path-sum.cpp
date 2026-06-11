@@ -19,12 +19,12 @@ public:
 
     int solve(TreeNode* root, int &maxsum){
         if(root==NULL) return 0; 
-        int leftsum= solve(root->left,maxsum); 
-        int rightsum= solve(root->right,maxsum);
+        int leftsum= max(0,solve(root->left,maxsum)); 
+        int rightsum= max(0,solve(root->right,maxsum));
 
-        int sum= max(rightsum+ root->val, max(leftsum+ root->val ,max(root->val, leftsum + root->val + rightsum)));
+        int sum=leftsum + root->val + rightsum;
 
         maxsum= max(maxsum,sum);
-        return max(root->val,max(rightsum+ root->val, leftsum+ root->val)); 
+        return root->val+ max(rightsum, leftsum); 
     }
 };
