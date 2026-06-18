@@ -7,17 +7,27 @@ public:
         for(int i=0; i<n; i++){
             if(!visited[i]){
                 province++; 
-                dfs(i,isConnected,visited,n);  
+                bfs(i,isConnected,visited,n);  
             }
         }
     return province; 
     }
 
-    void dfs(int node, vector<vector<int>>& isConnected, vector<int>&visited, int n){
-        visited[node]=1; 
-        for(int k=0; k<n; k++){
-            if(isConnected[node][k]==1 && !visited[k]){
-                dfs(k, isConnected, visited, n); 
+    void bfs(int node, vector<vector<int>>&isConnected, vector<int>&visited, int n){
+        visited[node]=1;
+        queue<int>q; 
+        q.push(node); 
+
+        while(!q.empty()){
+            int num=q.front(); 
+            q.pop();
+
+            for(int k=0; k<n; k++){
+                if(isConnected[num][k]==1 && !visited[k]){
+                    visited[k]=1; 
+                    q.push(k);
+                }
+
             }
         }
     }
