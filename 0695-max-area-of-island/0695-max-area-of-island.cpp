@@ -10,7 +10,7 @@ public:
             for(int j=0; j<n; j++){
                 if(grid[i][j]==1 && !visited[i][j]){
                     int area=0; 
-                    dfs(grid, visited, i, j, area, m, n); 
+                    bfs(grid, visited, i, j, area, m, n); 
                     maxarea= max(maxarea,area); 
                 }
             }
@@ -18,20 +18,29 @@ public:
         return maxarea; 
     }
 
-    void dfs(vector<vector<int>>& grid, vector<vector<int>>&visited, int i, int j, int &area, int m, int n){
-        visited[i][j]=1; 
-        area++; 
+    void bfs(vector<vector<int>>& grid, vector<vector<int>>&visited, int i, int j, int &area, int m, int n){
+        visited[i][j]=1;
+        queue<pair<int, int>>q; 
+        q.push({i, j});
 
-        int dx[]={-1,1,0,0};
-        int dy[]={0,0,-1,1}; 
-    
-        for(int k=0; k<4; k++){
-            int nrow= i+ dx[k];
-            int ncol= j+ dy[k]; 
+        while(!q.empty()){
+            int row=q.front().first; 
+            int col= q.front().second; 
+            area++; 
+            q.pop(); 
 
-            if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol]==1 && !visited[nrow][ncol]){
-                dfs(grid, visited, nrow, ncol, area, m, n); 
+            int dx[]={-1,1,0,0};
+            int dy[]={0,0,-1,1}; 
+        
+            for(int k=0; k<4; k++){
+                int nrow= row+ dx[k];
+                int ncol= col+ dy[k]; 
+
+                if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol]==1 && !visited[nrow][ncol]){
+                    visited[nrow][ncol]=1;
+                    q.push({nrow, ncol}); 
+                }
             }
-        }
+        } 
     }
 };
