@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0792-binary-search) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0820-find-eventual-safe-states) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1036-rotting-oranges) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
