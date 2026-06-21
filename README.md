@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0118-pascals-triangle) |
@@ -619,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
