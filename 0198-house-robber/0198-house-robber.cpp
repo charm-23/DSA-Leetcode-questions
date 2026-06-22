@@ -1,16 +1,14 @@
 class Solution {
 public:
-//tabulation
+//space optimization
     int rob(vector<int>& nums) {
-        int n=nums.size(); 
-        if(n==1) return nums[0]; 
-        vector<int>dp(n,-1);
-        dp[0]=nums[0];
-        dp[1]= max(dp[0], nums[1]); 
-
-        for(int i=2; i<n; i++){
-            dp[i]= max(nums[i]+ dp[i-2], dp[i-1]); 
+        int n=nums.size();
+        int prev1=0; int prev2=0;
+        for(int i=0; i<n; i++){
+            nums[i]=max(nums[i]+prev2, prev1); 
+            prev2=prev1; 
+            prev1=nums[i]; 
         }
-        return dp[n-1];
+        return nums[n-1];
     }
 };
