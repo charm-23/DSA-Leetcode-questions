@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0788-rotated-digits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Array
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
