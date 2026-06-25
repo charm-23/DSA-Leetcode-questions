@@ -1,19 +1,21 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int maxproduct=1, minproduct=1; 
-        int ans=*max_element(nums.begin(), nums.end()); 
+        int maxproduct=1, minproduct=1;
+        vector<int>dp(nums.size()+1);
+        dp[0]=1; 
+        int ans= *max_element(nums.begin(), nums.end()); 
 
-        for(int i=0; i<nums.size(); i++){
-            if(nums[i]==0){
-                maxproduct=1, minproduct=1; continue;  
+        for(int i=1; i<=nums.size(); i++){
+            if(nums[i-1]==0){
+                minproduct=1; 
+                dp[i]=1; 
             }
-            int temp= maxproduct;
-            maxproduct= max(nums[i],max(nums[i]*maxproduct, nums[i]*minproduct));
-            minproduct= min(nums[i],min(nums[i]*temp, nums[i]*minproduct));
-
-            ans= max(maxproduct, ans); 
+            dp[i]= max(minproduct*nums[i-1],max(nums[i-1], dp[i-1]*nums[i-1])); 
+            minproduct= min(minproduct*nums[i-1],min(nums[i-1], dp[i-1]*nums[i-1])); 
+            ans= max(ans, dp[i]); 
         }
+
     return ans; 
     }
 };
