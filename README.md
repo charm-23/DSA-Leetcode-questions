@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0091-decode-ways) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0846-hand-of-straights) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
