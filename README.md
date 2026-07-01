@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0647-palindromic-substrings) |
