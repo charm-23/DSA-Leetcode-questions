@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0066-plus-one) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0079-word-search) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
