@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0788-rotated-digits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3693-climbing-stairs-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3693-climbing-stairs-ii) |
 ## Array
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3693-climbing-stairs-ii) |
 ## Trie
 |  |
 | ------- |
