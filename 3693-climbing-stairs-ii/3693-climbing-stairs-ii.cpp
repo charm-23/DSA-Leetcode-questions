@@ -1,22 +1,16 @@
 class Solution {
 public:
     int climbStairs(int n, vector<int>& costs) {
-        vector<int>dp(n+1,-1); 
-        return helper(n, costs,dp); 
-    }
+        vector<int>dp(n+1,-1);
+        if(n==0) return 0;  
+        dp[0]=0;
+        dp[1]=costs[0]+ 1;
+        if(n==1) return dp[1];  
+        dp[2]=costs[1]+ min(dp[1]+1, dp[0]+4); 
 
-    int helper(int n, vector<int>&costs, vector<int>&dp){
-        if(n==0) return dp[0]=0; 
-        if(n<0) return INT_MAX; 
-
-        if(dp[n]!=-1) return dp[n]; 
-
-        long long jump1= helper(n-1, costs, dp);
-        long long jump2= helper(n-2, costs, dp); 
-        long long jump3= helper(n-3, costs, dp);
-
-        int mincost= min(jump3+9,min(jump1+1, jump2+4)); 
-
-        return dp[n]= mincost+ costs[n-1]; 
+        for(int i=3; i<=n; i++){
+            dp[i]= costs[i-1]+ min(dp[i-3]+9, min(dp[i-1]+1, dp[i-2]+4)); 
+        } 
+        return dp[n]; 
     }
 };
