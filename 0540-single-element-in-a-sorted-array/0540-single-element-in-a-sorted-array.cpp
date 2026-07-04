@@ -15,13 +15,13 @@ public:
             //each pair should ideally start with even index 
             if(nums[mid]==nums[mid-1]){
                 if(mid%2==0){
-                    high=mid-1; 
+                    high=mid-2; 
                 }
                 else low=mid+1; 
             }
 
             else if(nums[mid]==nums[mid+1]){
-                if(mid%2==0) low=mid+1; 
+                if(mid%2==0) low=mid+2; 
                 else high=mid-1; 
             }
 
