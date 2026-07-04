@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0205-isomorphic-strings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0242-valid-anagram) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0213-house-robber-ii) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0162-find-peak-element) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
@@ -675,4 +680,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
