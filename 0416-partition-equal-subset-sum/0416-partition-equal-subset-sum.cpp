@@ -1,32 +1,27 @@
 class Solution {
-public:
-// tabulation/ bottom up
+public:    
     bool canPartition(vector<int>& nums) {
-        int n=nums.size();
-        int sum=0;
-        for(int i=0; i<n; i++){
-            sum+= nums[i];
+        int totalsum=0; 
+        for(int i: nums){
+            totalsum+=i; 
         }
-        if(sum%2 !=0) return false; 
+        if(totalsum%2!=0) return false; 
+        vector<vector<int>>dp(nums.size(), vector<int>((totalsum/2)+1,-1)); 
+        return helper(nums, 0, totalsum/2, dp); 
+    }
 
-        int target= sum/2; 
-        vector<vector<int>>dp(n+1, vector<int>(target+1,0));
-        //base case 
-        for(int i=0; i<=n; i++){
-            dp[i][0]= 1; 
+    bool helper(vector<int>& nums, int i, int sum, vector<vector<int>>&dp){
+        if(sum==0) return true; 
+        if(i==nums.size()) return false; 
+
+        if(dp[i][sum]!=-1) return dp[i][sum]; 
+
+        bool take= false; 
+        if(nums[i]<=sum){
+            take= helper(nums, i+1, sum-nums[i],dp); 
         }
+        bool nottake= helper(nums, i+1, sum, dp); 
 
-        for(int i=1; i<=n; i++){
-            for(int j=1; j<=target; j++){
-                if(nums[i-1]<=j){
-                    dp[i][j]= (dp[i-1][j-nums[i-1]] || dp[i-1][j]); 
-                }
-                else{
-                    dp[i][j]= dp[i-1][j]; 
-                }
-            }
-        }
-        return dp[n][target];
-    } 
-
+        return dp[i][sum]= take|| nottake; 
+    }
 };
