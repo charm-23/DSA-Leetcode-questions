@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
