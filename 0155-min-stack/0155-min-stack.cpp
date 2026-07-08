@@ -1,26 +1,51 @@
 class MinStack {
 public:
-    stack<int>st; 
-    stack<int>minst; 
+    stack<long long>st; 
+    long long mini; 
+
     MinStack() {
     }
+
+    //encryption formula--> flag= (2*val-mini) //*2 cuz it gives  flag<val even in case of negative numbers 
     
     void push(int value) {
-        st.push(value); 
-        if(minst.empty() || value<=minst.top()) minst.push(value); 
+        if(st.empty()){
+            st.push(value); 
+            mini=value; 
+            return;
+        }
+        if(value<mini){
+            long long diff =(2LL* value-mini); 
+            st.push(diff);
+            mini=value; 
+        } 
+        else{
+            st.push(value); 
+        }
     }
     
     void pop() {
-        if(minst.top()==st.top()) minst.pop(); 
-        st.pop(); 
+        if(st.empty()) return; 
+
+        if(st.top()<mini){
+            mini= 2*mini-st.top(); 
+            st.pop(); 
+        }
+        else{
+            st.pop();
+        }
     }
     
     int top() {
-        return st.top(); 
+        if(st.empty()) return -1;
+        if(st.top()<mini){
+            return mini; 
+        }
+        else return st.top(); 
     }
     
     int getMin() {
-        return minst.top(); 
+        return mini; 
     }
 };
 
