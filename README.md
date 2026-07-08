@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2815-max-pair-sum-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2815-max-pair-sum-in-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2815-max-pair-sum-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2815-max-pair-sum-in-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
