@@ -8,7 +8,7 @@ public:
         st.push({n-1, temperatures[n-1]}); 
 
         for(int i=n-2; i>=0; i--){
-            while(!st.empty() && temperatures[i]>st.top().second){
+            while(!st.empty() && temperatures[i]>=st.top().second){
                 st.pop(); 
             }
             if(st.empty()) ans[i]=0; 
