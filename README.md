@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0846-hand-of-straights) |
@@ -661,11 +662,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
+| [0739-daily-temperatures](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
