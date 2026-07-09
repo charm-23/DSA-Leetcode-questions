@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0312-burst-balloons) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
