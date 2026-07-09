@@ -9,16 +9,16 @@ public:
             time.push_back({dist,sp});
         }
         sort(time.rbegin(), time.rend()); 
-        stack<double>st; int fleet=1; 
+        double curr=-1; int fleet=1; 
 
         for(int i=n-1; i>=0; i--){
             double realtime= (double) (time[i].first)/time[i].second; 
-            if(st.empty()){
-                st.push(realtime); 
+            if(curr==-1){
+                curr=realtime; 
             }
-            else if(!st.empty() && realtime>st.top()){
+            else if(curr!=-1 && realtime>curr){
                 fleet++; 
-                st.push(realtime); 
+                curr=realtime; 
             }
         }
     return fleet; 
