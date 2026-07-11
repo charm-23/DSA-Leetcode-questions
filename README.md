@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0061-rotate-list) |
+| [0355-design-twitter](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
+| [0355-design-twitter](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
