@@ -9,10 +9,10 @@ public:
             int y=i[1]; 
             int dist= pow(x,2)+ pow(y,2); 
             maxh.push({dist, i}); 
-        }
 
-        while(maxh.size()>k){
-            maxh.pop(); 
+            if(maxh.size()>k){
+                maxh.pop(); 
+            }
         }
 
         while(!maxh.empty()){
