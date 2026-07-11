@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1036-rotting-oranges](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1499-max-value-of-equation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1499-max-value-of-equation) |
 ## Bucket Sort
 |  |
