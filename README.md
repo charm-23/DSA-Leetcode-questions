@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
