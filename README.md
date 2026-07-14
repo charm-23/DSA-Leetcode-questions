@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0743-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0820-find-eventual-safe-states) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0743-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1499-max-value-of-equation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1499-max-value-of-equation) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0743-network-delay-time) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -774,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
