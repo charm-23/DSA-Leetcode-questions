@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3468-find-the-encrypted-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3468-find-the-encrypted-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3921-score-validator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3921-score-validator) |
+| [3931-check-adjacent-digit-differences](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3931-check-adjacent-digit-differences) |
 ## Two Pointers
 |  |
 | ------- |
