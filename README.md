@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
+| [3875-construct-uniform-parity-array-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3908-valid-digit-number) |
 ## String
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3693-climbing-stairs-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3903-smallest-stable-index-i) |
