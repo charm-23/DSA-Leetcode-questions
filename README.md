@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
+| [3908-valid-digit-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3908-valid-digit-number) |
 ## String
 |  |
 | ------- |
