@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3468-find-the-encrypted-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3468-find-the-encrypted-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3884-first-matching-character-from-both-ends](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3931-check-adjacent-digit-differences) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3884-first-matching-character-from-both-ends](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
