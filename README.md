@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3468-find-the-encrypted-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3468-find-the-encrypted-string) |
+| [3838-weighted-word-mapping](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3894-traffic-signal-color) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3693-climbing-stairs-ii) |
+| [3838-weighted-word-mapping](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3866-first-unique-even-element) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2295-replace-elements-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3842-toggle-light-bulbs) |
 | [3894-traffic-signal-color](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3921-score-validator) |
