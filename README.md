@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1041-robot-bounded-in-circle) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
