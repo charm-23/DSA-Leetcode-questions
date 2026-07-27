@@ -28,34 +28,18 @@ public:
                 if(st==target) return moves; 
 
                 for(int i=0; i<4; i++){
-                    string temp=st; 
-                    if(st[i]=='0'){
-                        temp[i]='9'; 
-                        if(dead.find(temp)==dead.end() && visited.find(temp)==visited.end()){
-                            q.push(temp);
-                            visited.insert(temp); 
-                        }
-                        temp[i]='1'; 
-                        if(dead.find(temp)==dead.end() && visited.find(temp)==visited.end()){
-                            q.push(temp); visited.insert(temp); 
-                        }
+                    char original=st[i]; 
+                    string temp=st;
+                    temp[i]= ((original-'0'+1) %10) +'0'; //forward (0-9 mapping +1 remember)
+                    if(dead.find(temp)==dead.end() && visited.find(temp)==visited.end()){
+                        q.push(temp); 
+                        visited.insert(temp); 
                     }
-                    else if(st[i]=='9'){
-                        temp[i]='0';
-                        if(dead.find(temp)==dead.end() && visited.find(temp)==visited.end()){
-                            q.push(temp); visited.insert(temp); }
-                        temp[i]='8'; 
-                        if(dead.find(temp)==dead.end() && visited.find(temp)==visited.end()){
-                            q.push(temp); visited.insert(temp); }
-                    }
-                    else{
-                        temp[i]++; 
-                        if(dead.find(temp)==dead.end() && visited.find(temp)==visited.end()){
-                            q.push(temp); visited.insert(temp); }
-                        temp[i]=temp[i]-2; 
-                        if(dead.find(temp)==dead.end() && visited.find(temp)==visited.end()){
-                            visited.insert(temp); q.push(temp); 
-                        } 
+                    temp=st; 
+                    temp[i]= ((original-'0'+9) %10) +'0'; //backward (0-9 mapping -1)
+                    if(dead.find(temp)==dead.end() && visited.find(temp)==visited.end()){
+                        q.push(temp); 
+                        visited.insert(temp); 
                     }
                 }
             }
