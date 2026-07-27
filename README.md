@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1041-robot-bounded-in-circle) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0846-hand-of-straights) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
