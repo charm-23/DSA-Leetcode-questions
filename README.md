@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0752-open-the-lock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0846-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0889-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0904-fruit-into-baskets) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0752-open-the-lock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0889-buddy-strings) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0846-hand-of-straights) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0820-find-eventual-safe-states) |
