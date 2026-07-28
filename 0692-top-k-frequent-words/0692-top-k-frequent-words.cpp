@@ -1,15 +1,12 @@
-struct mycomp{
-    bool operator()(pair<int,string>&a, pair<int,string>&b){
+class mycomp{
+    public:
+    bool operator()(pair<int,string>a, pair<int,string>b){
         if(a.first==b.first){
-            if(a.second<b.second) return true; 
-            else return false;
+            return a.second<b.second; //if parent<child i want to swap; 
         }
-        else{
-            if(a.first>b.first) return true; 
-            else return false;
-        }
+        return a.first>b.first; //in minheap if parent>child i want to swap; 
     }
-};
+}; 
 
 class Solution {
 public:
