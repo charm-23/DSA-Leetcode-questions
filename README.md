@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3468-find-the-encrypted-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3468-find-the-encrypted-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3803-count-residue-prefixes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2126-destroying-asteroids) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3842-toggle-light-bulbs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3842-toggle-light-bulbs) |
 ## Greedy
 |  |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Memoization
 |  |
 | ------- |
