@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3917-count-indices-with-opposite-parity](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3975-filter-occupied-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3975-filter-occupied-intervals) |
 ## Trie
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2126-destroying-asteroids) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3842-toggle-light-bulbs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3842-toggle-light-bulbs) |
+| [3975-filter-occupied-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3975-filter-occupied-intervals) |
 ## Greedy
 |  |
 | ------- |
