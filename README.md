@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Math
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3917-count-indices-with-opposite-parity](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3975-filter-occupied-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3975-filter-occupied-intervals) |
 ## Trie
 |  |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1499-max-value-of-equation) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1590-make-sum-divisible-by-p) |
 | [3903-smallest-stable-index-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3903-smallest-stable-index-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -885,4 +889,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-count-monobit-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
