@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3693-climbing-stairs-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3693-climbing-stairs-ii) |
 ## Array
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1406-stone-game-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1499-max-value-of-equation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1499-max-value-of-equation) |
 | [1539-kth-missing-positive-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1539-kth-missing-positive-number) |
@@ -907,12 +910,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
