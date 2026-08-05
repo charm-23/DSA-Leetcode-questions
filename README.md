@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2439-longest-cycle-in-a-graph) |
+| [3310-remove-methods-from-project](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2439-longest-cycle-in-a-graph) |
+| [3310-remove-methods-from-project](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3310-remove-methods-from-project) |
 ## Union Find
 |  |
 | ------- |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3310-remove-methods-from-project](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3310-remove-methods-from-project) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Minimum Spanning Tree
