@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3866-first-unique-even-element) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Math
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3866-first-unique-even-element) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3875-construct-uniform-parity-array-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Matrix
 |  |
 | ------- |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3866-first-unique-even-element) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
