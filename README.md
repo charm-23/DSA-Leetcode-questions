@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3894-traffic-signal-color) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3827-count-monobit-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
