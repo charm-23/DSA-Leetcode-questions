@@ -1,35 +1,32 @@
 class Solution {
 public:
-    int dp[101][101][2]; 
-
+int dp[100][100][2]; 
     int stoneGameII(vector<int>& piles) {
-        int n=piles.size(); 
-        memset(dp, -1, sizeof(dp)); 
-        return helper(piles, 0, 1,0); 
+        memset(dp,-1,sizeof(dp)); 
+        return helper(piles, 0, 1, 0); 
     }
 
-    int helper(vector<int>& piles, int i, int M, bool flag){
-        if(i>=piles.size()) return 0; 
+    int helper(vector<int>& piles, int index, int M, bool flag){
+        if(index>=piles.size()) return 0; 
 
-        if(dp[i][M][flag]!=-1) return dp[i][M][flag]; 
-
-        int result; 
-        int stones=0;
+        if(dp[index][M][flag]!=-1) return dp[index][M][flag]; 
+        int res;
+        int stones=0; 
 
         if(!flag){
-            result=-1; 
-            for(int x=1; x<=min(2*M, (int)piles.size()-i); x++){ 
-                stones+= piles[x+i-1]; 
-                result= max(result, stones + helper(piles, i+x, max(M,x),1));
-            }
-        }
-        else{
-            result=INT_MAX; 
-            for(int x=1; x<=min(2*M, (int)piles.size()-i); x++){ 
-                result= min(result, helper(piles, i+x, max(M,x),0));
+            res=0; 
+            for(int x=1; x<=min(2*M, (int)piles.size()-index) ; x++){
+                stones+= piles[index+x-1]; 
+                res=max(res, stones+helper(piles, index+x, max(M,x), 1)); 
             }
         }
 
-        return dp[i][M][flag]=result; 
+        else{
+            res=INT_MAX; 
+            for(int x=1; x<=min(2*M,(int)piles.size()-index) ; x++){
+                res=min(res, helper(piles,index+x, max(M,x),0)); 
+            }
+        }
+        return dp[index][M][flag]=res; 
     }
 };
