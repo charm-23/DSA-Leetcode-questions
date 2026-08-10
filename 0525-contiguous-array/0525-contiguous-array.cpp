@@ -16,9 +16,7 @@ public:
             if(mpp.find(sum)!=mpp.end()){
                 ans= max(ans, i-mpp[sum]); 
             }
-            if(mpp.find(sum)==mpp.end()){
-                mpp[sum]=i; 
-            }
+            else mpp[sum]=i; 
         }
 
         return ans; 
