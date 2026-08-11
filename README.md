@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2815-max-pair-sum-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2815-max-pair-sum-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2815-max-pair-sum-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2815-max-pair-sum-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2126-destroying-asteroids) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3731-find-missing-elements) |
