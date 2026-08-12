@@ -8,20 +8,13 @@ public:
 
         while(r<n){
             mpp[nums[r]]++; 
-
-            if(mpp[nums[r]]<=k){
-                ans= max(ans, r-l+1); 
+            while(mpp[nums[r]]>k){
+                mpp[nums[l]]--; 
+                l++; 
             }
-            else{
-                while(mpp[nums[r]]>k){
-                    mpp[nums[l]]--; 
-                    l++; 
-                    ans= max(ans, r-l+1); 
-                }
-            }
+            ans= max(ans, r-l+1); 
             r++; 
         }
-
         return ans; 
     }
 };
