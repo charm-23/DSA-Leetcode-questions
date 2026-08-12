@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0202-happy-number) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0143-reorder-list) |
 | [0355-design-twitter](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0486-predict-the-winner) |
 ## Quickselect
 |  |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0155-min-stack) |
