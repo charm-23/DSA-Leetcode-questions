@@ -1,28 +1,23 @@
-
-
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int n = nums.size(), i = n - 2;
+        int n=nums.size(); 
+        int i=n-2; 
 
-        // Step 1: Find the first decreasing element from the end
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
-        }
+        while(i>=0 && nums[i]>=nums[i+1]) i--; 
 
-        if (i >= 0) {
-            // Step 2: Find the next greater element to the right
-            int j = n - 1;
-            while (j >= 0 && nums[j] <= nums[i]) {
-                j--;
+        int j=n-1;
+        
+        if(i>=0){
+            while(j>i){
+            if(nums[j]>nums[i]){
+                swap(nums[i], nums[j]); 
+                break; 
             }
-            // Step 3: Swap
-            swap(nums[i], nums[j]);
+            else j--; 
+            }
         }
 
-        // Step 4: Reverse the subarray after index i
-        reverse(nums.begin() + i + 1, nums.end());
+        reverse(nums.begin()+i+1, nums.end()); 
     }
 };
-
-    
