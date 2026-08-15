@@ -22,25 +22,26 @@ public:
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
-        if(!node) return NULL; 
-        unordered_map<Node*, Node*> mpp;
-        Node* clone_node = new Node(node->val);
-        mpp[node] = clone_node;
-        dfs(node, clone_node, mpp);
-    return clone_node; 
+        if(!node) return NULL;
+        unordered_map<Node*, Node*> mpp; 
+        Node* newnode= new Node(node->val); 
+        mpp[node]= newnode;
+
+        //dfs
+        dfs(node, mpp); 
+
+        return newnode;
     }
 
-    void dfs(Node* node, Node* clone_node, unordered_map<Node*, Node*>& mpp) {
-        for(Node* n : node->neighbors) {
-            if(mpp.find(n) == mpp.end()) {
-                Node* clone= new Node(n->val);
-                mpp[n]=clone; 
-                clone_node->neighbors.push_back(clone); 
-                dfs(n, clone, mpp); 
+    void dfs(Node* node, unordered_map<Node*, Node*>&mpp){
+        for(Node* i: node->neighbors){
+            if(mpp.find(i)==mpp.end()){
+                Node* newnode= new Node(i->val); 
+                mpp[i]=newnode; 
+                (mpp[node]->neighbors).push_back(newnode); 
+                dfs(i, mpp); 
             }
-            else{
-                clone_node->neighbors.push_back(mpp[n]); 
-            }
+            else (mpp[node]->neighbors).push_back(mpp[i]); 
         }
     }
 };
