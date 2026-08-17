@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1406-stone-game-iii) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0846-hand-of-straights) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1946-largest-number-after-mutating-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1946-largest-number-after-mutating-substring) |
