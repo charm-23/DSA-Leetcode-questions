@@ -1,38 +1,30 @@
 class Solution {
 public:
-    bool isFreqSame(int freq1[], int freq2[]){
-        for(int i=0; i<26; i++){
-            if(freq1[i] != freq2[i]){
-                return false;
-            }
-        }
-        return true;
-    }
-
-
     bool checkInclusion(string s1, string s2) {
-        int freq[26]={0};
-        for(int i=0; i<s1.size(); i++){
-            freq[s1[i]-'a']++;
+        int k=s1.size(); 
+        vector<int>freq1(26,0);
+        for(char c:s1){
+            freq1[c-'a']++; 
         }
-        
-        int index=0;
 
-        if(s1.size()>s2.size()) return false;
+        int l=0; int r=0; 
+        vector<int>freq2(26,0); 
 
-        while(index<=s2.size()-s1.size()){
-        int windfreq[26]={0};
-        int i=0;
-            while(i<s1.size()){
-                windfreq[s2[index+i]-'a']++;
-                i++;
-            }
-            index++;
-            if(isFreqSame(freq, windfreq)){
-                return true;
+        while(r<s2.size()){
+            freq2[s2[r]-'a']++; 
+
+            if(r-l+1>k){
+                freq2[s2[l]-'a']--; 
+                l++; 
             }
 
+            if(r-l+1==k){
+                if(freq1==freq2) return true; 
+            }
+
+            r++; 
         }
-        return false ;  
+
+        return false; 
     }
 };
