@@ -1,27 +1,27 @@
 class Solution {
-public:    
+public:
     bool canPartition(vector<int>& nums) {
-        int totalsum=0; 
-        for(int i: nums){
-            totalsum+=i; 
-        }
-        if(totalsum%2!=0) return false; 
-        vector<vector<int>>dp(nums.size(), vector<int>((totalsum/2)+1,-1)); 
-        return helper(nums, 0, totalsum/2, dp); 
-    }
+        int n=nums.size(); 
+        int total= accumulate(nums.begin(), nums.end(), 0); 
+        if(total%2!=0) return false; 
 
-    bool helper(vector<int>& nums, int i, int sum, vector<vector<int>>&dp){
-        if(sum==0) return true; 
+        vector<vector<int>>dp(n, vector<int>((total/2)+1,-1)); 
+        return helper(0, total/2, nums, dp); 
+    }
+    int helper(int i, int target, vector<int>& nums, vector<vector<int>>&dp){
+        if(target==0) return true; 
+
         if(i==nums.size()) return false; 
 
-        if(dp[i][sum]!=-1) return dp[i][sum]; 
+        if(dp[i][target]!=-1) return dp[i][target]; 
 
-        bool take= false; 
-        if(nums[i]<=sum){
-            take= helper(nums, i+1, sum-nums[i],dp); 
+        bool nottake= helper(i+1, target, nums, dp); 
+        bool take=false; 
+
+        if(nums[i]<=target){
+            take= helper(i+1, target-nums[i], nums, dp); 
         }
-        bool nottake= helper(nums, i+1, sum, dp); 
 
-        return dp[i][sum]= take|| nottake; 
+        return dp[i][target]= take || nottake; 
     }
 };
