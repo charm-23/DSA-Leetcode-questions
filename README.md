@@ -1031,4 +1031,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
