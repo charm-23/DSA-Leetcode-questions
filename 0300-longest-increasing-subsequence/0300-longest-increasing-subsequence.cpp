@@ -9,7 +9,7 @@ public:
     int helper(int i, int prev,vector<int>& nums, vector<vector<int>>&dp){
         if(i==nums.size()) return 0;
 
-        if(prev!=-1 && dp[i][prev]!=-1) return dp[i][prev]; 
+        if(dp[i][prev+1]!=-1) return dp[i][prev+1]; 
 
         int nottake= helper(i+1, prev, nums, dp); 
         int take=0; 
@@ -18,8 +18,6 @@ public:
             take= 1+ (helper(i+1, i, nums, dp )); 
         }
 
-        if(prev==-1) return max(take, nottake); 
-
-        return dp[i][prev]=max(take, nottake); 
+        return dp[i][prev+1]=max(take, nottake); 
     }
 };
