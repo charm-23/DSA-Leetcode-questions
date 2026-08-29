@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
+| [1048-longest-string-chain](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1590-make-sum-divisible-by-p) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0889-buddy-strings) |
 | [1041-robot-bounded-in-circle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1041-robot-bounded-in-circle) |
+| [1048-longest-string-chain](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1861-rotating-the-box](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1406-stone-game-iii) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -448,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
