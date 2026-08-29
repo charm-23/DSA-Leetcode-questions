@@ -1,14 +1,11 @@
 class Solution {
 public:
 
-    static bool mycomp(string &word1, string &word2){
-        return word1.size()<word2.size(); 
-    }
-
-
     int longestStrChain(vector<string>& words) {
         int n=words.size(); 
-        sort(words.begin(), words.end(), mycomp);
+        sort(words.begin(), words.end(), [](const string &s1,  const string &s2){
+            return s1.size()<s2.size(); 
+        });
         vector<vector<int>>dp(n, vector<int>(n+1, -1)); 
         return helper(0, -1, words, dp); 
 
