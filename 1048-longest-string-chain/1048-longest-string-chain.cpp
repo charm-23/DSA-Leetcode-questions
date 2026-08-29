@@ -6,27 +6,22 @@ public:
         sort(words.begin(), words.end(), [](const string &s1,  const string &s2){
             return s1.size()<s2.size(); 
         });
-        vector<vector<int>>dp(n, vector<int>(n+1, -1)); 
-        return helper(0, -1, words, dp); 
+
+        vector<int>dp(n, 1); 
+        int ans=1; 
+
+        for(int i=0; i<n; i++){
+            for(int j=0; j<i; j++){
+                if(abs(words[i].length()- words[j].length()==1) && check(words[j], words[i])){
+                    dp[i]= max(dp[i], 1+ dp[j]); 
+                    ans= max(ans, dp[i]); 
+                }
+            }
+        } 
+
+        return ans; 
 
     }
-
-    int helper(int i, int prev, vector<string>& words,  vector<vector<int>>&dp){
-        if(i==words.size()) return 0; 
-
-        if(dp[i][prev+1]!=-1) return dp[i][prev+1]; 
-
-        int take=0; 
-
-        if(prev==-1 || ((words[i].length()-words[prev].length())==1)&& check(words[prev], words[i])){
-            take= 1+ helper(i+1, i, words, dp); 
-        }
-
-        int nottake= helper(i+1, prev, words, dp); 
-
-        return dp[i][prev+1]= max(take, nottake); 
-    }
-
 
     bool check(string word1, string word2){
         int n=word1.size(); int m=word2.size(); 
