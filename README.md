@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2439-longest-cycle-in-a-graph](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
