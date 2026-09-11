@@ -1,25 +1,37 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        set<int>mpp; 
-        int ans=0; 
-
+        vector<int>freq(10,0); 
         for(int i=0; i<digits.size(); i++){
-            for(int j=0; j<digits.size(); j++){
-                if(i==j) continue; 
-                for(int k=0; k<digits.size(); k++){
-                    if(j==k || i==k) continue; 
-                    if(digits[i]==0) continue; 
-                    int num= digits[i]*100 + digits[j]*10 + digits[k]; 
-
-                    if(mpp.find(num)==mpp.end() && num%2==0){
-                        mpp.insert(num); 
-                        ans++; 
-                    }
-                }
-            }
+            freq[digits[i]]++; 
         }
 
-        return ans; 
+        int ans=0; 
+
+        for(int i=1; i<=9; i++){
+            if(freq[i]==0) continue; 
+            freq[i]--; 
+
+            for(int j=0; j<=9; j++){
+                if(freq[j]==0) continue; 
+                freq[j]--; 
+
+                for(int k=0; k<=8; k=k+2){
+                    if(freq[k]==0) continue; 
+                    freq[k]--; 
+
+                    int num= i*100 + j*10 +k; 
+                    ans++; 
+
+                    freq[k]++; 
+                }
+
+                freq[j]++; 
+            }
+
+            freq[i]++; 
+        }
+
+        return ans;
     }
 };
