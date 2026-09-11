@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3842-toggle-light-bulbs) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3483-unique-3-digit-even-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3693-climbing-stairs-ii) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quickselect
 |  |
 | ------- |
@@ -989,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
