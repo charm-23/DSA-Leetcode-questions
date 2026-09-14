@@ -1,36 +1,44 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-       vector<vector<int>>ans; 
-       sort(nums.begin(), nums.end()); 
+        vector<vector<int>>ans; 
+        sort(nums.begin(), nums.end()); 
 
-       for(int x=0; x<nums.size(); x++){
-        if(x>0 && nums[x]== nums[x-1]) continue;
+        //nums[i]= -(nums[j]+ nums[k]); 
 
-        int target= -nums[x];
-        int i=x+1; 
-        int j= nums.size()-1;
-    
+        for(int k=0; k<nums.size(); k++){
 
-        while(i<j){
+            if(k>0 && nums[k]==nums[k-1]) continue;
 
-            if(nums[i]+nums[j]==target){
+            int findsum= -nums[k]; 
 
-                vector<int>res={nums[x], nums[i], nums[j]};
-                ans.push_back(res);  
-                i++; 
-                j--; 
+            int i=k+1; int j=nums.size()-1;
 
-                while(i<j && nums[i]==nums[i-1]) i++; 
-                while(i<j && nums[j]==nums[j+1]) j--; 
+            while(i<j){
 
+                if(nums[i]+nums[j]==findsum){
+                    vector<int>res; 
+                    res.push_back(nums[k]); 
+                    res.push_back(nums[i]); 
+                    res.push_back(nums[j]); 
+
+                    i++; j--; 
+
+                    while(i<nums.size() && nums[i]==nums[i-1]) i++; 
+                    while(j>=0 && nums[j]==nums[j+1]) j--; 
+
+                    ans.push_back(res); 
+                }
+
+                else if(nums[i]+nums[j]<findsum){
+                    i++; 
+                }
+
+                else j--; 
             }
 
-            else if(nums[i]+nums[j]<target) i++; 
-
-            else j--; 
-        } 
         }
-    return ans;
+
+        return ans; 
     }
 };
