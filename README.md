@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
+| [0503-next-greater-element-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0853-car-fleet) |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
