@@ -2,24 +2,25 @@ class Solution {
 public:
     int change(int amount, vector<int>& coins) {
         int n=coins.size(); 
-        vector<vector<int>>dp(n+1, vector<int>(amount+1,-1)); 
-        int res= helper(amount,n,coins,dp); 
-        return res==-1? 0: res; 
-    }
 
-    int helper(int amount, int i, vector<int>& coins, vector<vector<int>>&dp){
-        if(amount==0) return dp[i][0]=1; 
-        if(i==0) return dp[0][amount]=0;
+        vector<vector<unsigned long long>>dp(n, vector<unsigned long long>(amount+1,0));
 
-        if(dp[i][amount]!=-1){
-            return dp[i][amount]; 
-        } 
-
-        if(coins[i-1]<=amount){
-            return dp[i][amount]= helper(amount-coins[i-1], i, coins, dp) + helper(amount, i-1, coins, dp); 
+        for(int i=0; i<n; i++){
+            dp[i][0]=1;
         }
-        else{
-            return dp[i][amount]= helper(amount, i-1, coins, dp); 
+
+        for(int i=1; i<=amount; i++){
+            if((i%coins[0])==0) dp[0][i]=1; 
         }
+
+        for(int i=1; i<n; i++){
+            for(int sum=1; sum<=amount; sum++){
+                unsigned long long nottake= dp[i-1][sum]; 
+                unsigned long long take=0; 
+                if(coins[i]<=sum) take=dp[i][sum-coins[i]]; 
+                dp[i][sum]= (take+nottake); 
+            }
+        }
+        return(int) dp[n-1][amount]; 
     }
 };
