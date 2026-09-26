@@ -1,17 +1,33 @@
 class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n=nums.size();
-        vector<vector<int>>dp(n, vector<int>(2001,-1)); 
-        return helper(nums, target, 0, 0, dp);
-    }
+        int n=nums.size(); 
+        int sum=accumulate(nums.begin(),nums.end(), 0); 
 
-    int helper(vector<int>& nums, int target, int i, int sum, vector<vector<int>>&dp){
-        if(i==nums.size() && sum==target) return 1;
-        if(i==nums.size()) return 0; 
+        int subsetsum=(sum+target)/2; //count no. of ways to get subsetsum; 
 
-        if(dp[i][sum+1000]!=-1) return dp[i][sum+1000]; 
+        if(abs(target)>sum) return 0; 
+        if((sum+target)%2!=0) return 0; 
 
-        return dp[i][sum+1000]= helper(nums, target, i+1, sum+nums[i],dp) + helper(nums, target, i+1, sum-nums[i],dp); 
+        vector<vector<int>>dp(n, vector<int>(subsetsum+1, 0)); 
+
+        if(nums[0]==0){
+            dp[0][0]=2; 
+        }
+        else dp[0][0]=1;
+
+        if(nums[0]!=0 && nums[0]<=subsetsum) dp[0][nums[0]]=1;
+
+        for(int i=1; i<n; i++){
+            for(int sum=0; sum<=subsetsum; sum++){
+                int nottake= dp[i-1][sum]; 
+
+                int take=0; 
+                if(nums[i]<=sum) take= dp[i-1][sum-nums[i]]; 
+
+                dp[i][sum]= take+nottake; 
+            }
+        }
+        return dp[n-1][subsetsum]; 
     }
 };
