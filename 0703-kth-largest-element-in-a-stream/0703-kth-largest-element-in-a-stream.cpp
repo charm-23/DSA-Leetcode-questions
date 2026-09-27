@@ -4,20 +4,19 @@ public:
     int K; 
 
     KthLargest(int k, vector<int>& nums) {
-        this->K=k; 
-        for(int i=0; i<nums.size(); i++){
-            minh.push(nums[i]); 
-        }
-        while(minh.size()>K){
-            minh.pop(); 
+        K=k; 
+        for(int i:nums){
+            minh.push(i); 
+
+            if(minh.size()>k) minh.pop(); 
         }
     }
     
     int add(int val) {
         minh.push(val); 
-        while(minh.size()>K){
-            minh.pop(); 
-        }
+
+        if(minh.size()>K) minh.pop(); 
+
         return minh.top(); 
     }
 };
