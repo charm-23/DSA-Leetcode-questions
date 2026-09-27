@@ -1097,4 +1097,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
