@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0567-permutation-in-string) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0480-sliding-window-median](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1109,4 +1113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
