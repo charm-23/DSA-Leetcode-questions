@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0647-palindromic-substrings) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0389-find-the-difference) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Iterator
@@ -1001,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Shortest Path
 |  |
