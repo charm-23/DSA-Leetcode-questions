@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2295-replace-elements-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2295-replace-elements-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2402-meeting-rooms-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2815-max-pair-sum-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2815-max-pair-sum-in-an-array) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2295-replace-elements-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2402-meeting-rooms-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2815-max-pair-sum-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2815-max-pair-sum-in-an-array) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2126-destroying-asteroids) |
+| [2402-meeting-rooms-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2402-meeting-rooms-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2295-replace-elements-in-an-array) |
+| [2402-meeting-rooms-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2402-meeting-rooms-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -766,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1499-max-value-of-equation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1499-max-value-of-equation) |
+| [2402-meeting-rooms-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2402-meeting-rooms-iii) |
 ## Bucket Sort
 |  |
 | ------- |
