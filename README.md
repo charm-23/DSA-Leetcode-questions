@@ -1140,4 +1140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
