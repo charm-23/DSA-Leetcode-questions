@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0486-predict-the-winner) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0778-swim-in-rising-water) |
