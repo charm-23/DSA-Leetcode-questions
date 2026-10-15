@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0396-rotate-function) |
+| [0407-trapping-rain-water-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0741-cherry-pickup) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0684-redundant-connection) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0621-task-scheduler) |
