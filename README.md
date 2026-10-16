@@ -1132,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -1156,4 +1157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1143-longest-common-subsequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
