@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3708-longest-fibonacci-subarray](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3708-longest-fibonacci-subarray) |
 | [3731-find-missing-elements](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3838-weighted-word-mapping) |
