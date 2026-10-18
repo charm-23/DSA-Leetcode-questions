@@ -14,11 +14,11 @@ public:
         int a= min(p->val, q->val); 
         int b= max(p->val, q->val); 
 
-        while(root){
-            if(b<root->val) root=root->left;
-            else if(a>root->val) root= root->right; 
-            else return root; 
-        }
-    return NULL; 
+        if(root==NULL) return NULL; 
+        if(root->val==a || root->val==b) return root; 
+
+        if(a<root->val && b>root->val) return root; 
+        else if(a>root->val && b>root->val) return lowestCommonAncestor(root->right, p, q); 
+        return lowestCommonAncestor(root->left, p, q); 
     }
 };
