@@ -12,30 +12,26 @@
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
+        TreeNode* curr=root; 
         if(root==NULL){
-            root= new TreeNode(val);
-            return root;
+            root= new TreeNode(val); 
+            return root; 
         }
 
-        TreeNode*curr= root; 
-        while(root!=NULL){
-            if(root->val<val && root->right){
-                root= root->right; 
+        while(curr){
+            if(val>curr->val && curr->right){
+                curr=curr->right; 
             }
-            else if(root->val<val && !root->right){
-                root->right= new TreeNode(val); 
+            else if(val<curr->val && curr->left) curr=curr->left; 
+            else{
+                if(val<curr->val){
+                    curr->left= new TreeNode(val); 
+                }
+                else curr->right= new TreeNode(val); 
                 break; 
             }
-            else{
-                if(root->val>val && root->left){
-                    root= root->left; 
-                }
-                else{
-                    root->left= new TreeNode(val);
-                    break; 
-                }
-            }
         }
-    return curr;   
+
+        return root; 
     }
 };
