@@ -1,47 +1,60 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
-public: 
-    TreeNode* helper(TreeNode* root){
-        if(root->left==NULL) return root->right; 
-        else if(root->right==NULL) return root->left; 
-        else{
-            TreeNode* rightchild= root->right; 
-            TreeNode* leftchild= root->left; 
-            TreeNode* dummy= root->left; 
-            TreeNode* temp= root->right; 
-            while(leftchild->right!=NULL){
-                leftchild= leftchild->right; 
-            }
-            leftchild->right= temp; 
-            return dummy; 
-        }
-    }
+public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root==NULL) return NULL; 
-        if(root->val== key){
+        if(!root) return NULL; 
+        TreeNode*curr =root; 
+
+        if(root->val==key){
             return helper(root); 
         }
 
-        TreeNode* curr= root; 
-        while(curr!=NULL){
+        while(curr){
             if(key<curr->val){
                 if(curr->left && curr->left->val==key){
-                    curr->left=  helper(curr->left); 
+                    curr->left= helper(curr->left); 
+                    break; 
                 }
-                else{
-                    curr=curr->left; 
-                } 
-
+                else curr=curr->left; 
             }
+
             else if(key>curr->val){
-                if(curr->right && curr->right->val==key){
-                    curr->right=  helper(curr->right); 
-                }
-                else{
-                    curr=curr->right; 
-                }
-
+               if(curr->right && curr->right->val==key){
+                curr->right= helper(curr->right); 
+                break; 
+               }
+               else curr=curr->right; 
             }
+        }  
+
+        return root; 
+    }
+
+    TreeNode* helper(TreeNode* node){
+        if(!node->left && !node->right) return NULL; 
+        if(node->left==NULL) return node->right; 
+        if(node->right==NULL) return node->left; 
+
+        TreeNode* leftchild= node->left; 
+        TreeNode* rightchild= node->right; 
+        TreeNode* rightleftmostchild= node->right;
+
+        while(rightleftmostchild->left!=NULL){
+            rightleftmostchild= rightleftmostchild->left; 
         }
-    return root; 
+
+        rightleftmostchild->left= leftchild;
+
+        return rightchild; 
     }
 };
