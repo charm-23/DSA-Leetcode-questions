@@ -12,14 +12,14 @@
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
-       return solve(root, LLONG_MIN, LLONG_MAX); 
+        //every node should be within a range; 
+        return helper(root, LLONG_MIN, LLONG_MAX);
     }
 
-    bool solve(TreeNode* root, long long mini, long long maxi){
-        if(root==NULL) return true; 
-        if(mini<root->val && root->val<maxi){
-            return solve(root->left, mini, root->val) && solve(root->right, root->val, maxi);
-        }
-    else return false;
+    bool helper(TreeNode* node, long long low, long long high){
+        if(!node) return true; 
+        if(node->val<=low || node->val>=high) return false; 
+
+        return helper(node->left, low, node->val) && helper(node->right, node->val, high); 
     }
 };
