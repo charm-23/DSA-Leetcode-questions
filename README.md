@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1499-max-value-of-equation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1499-max-value-of-equation) |
 | [1539-kth-missing-positive-number](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1539-kth-missing-positive-number) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1499-max-value-of-equation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1499-max-value-of-equation) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1590-make-sum-divisible-by-p) |
 | [3903-smallest-stable-index-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/3904-smallest-stable-index-ii) |
