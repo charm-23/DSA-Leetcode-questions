@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0097-interleaving-string) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0480-sliding-window-median) |
