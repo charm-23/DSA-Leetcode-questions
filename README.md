@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0480-sliding-window-median) |
+| [0496-next-greater-element-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0567-permutation-in-string) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0525-contiguous-array) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0739-daily-temperatures) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0853-car-fleet) |
