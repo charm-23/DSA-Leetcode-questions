@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0889-buddy-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1041-robot-bounded-in-circle](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1041-robot-bounded-in-circle) |
 | [1048-longest-string-chain](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1143-longest-common-subsequence) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0853-car-fleet) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -1237,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/charm-23/DSA-Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Algorithm X
 |  |
 | ------- |
