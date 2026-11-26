@@ -1,33 +1,35 @@
 class Solution {
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n= isConnected.size(); 
-        vector<int>visited(n,0);
-        int province=0; 
+        int n=isConnected.size(); 
+        vector<int>visited(n, 0); 
+
+        int provinces=0; 
+
         for(int i=0; i<n; i++){
             if(!visited[i]){
-                province++; 
-                bfs(i,isConnected,visited,n);  
+                provinces++; 
+                bfs(i, isConnected, visited); 
             }
         }
-    return province; 
+
+        return provinces; 
     }
 
-    void bfs(int node, vector<vector<int>>&isConnected, vector<int>&visited, int n){
-        visited[node]=1;
+    void bfs(int node, vector<vector<int>>& isConnected, vector<int>&visited){
         queue<int>q; 
-        q.push(node); 
+        q.push({node}); 
+        visited[node]=1; 
 
         while(!q.empty()){
-            int num=q.front(); 
-            q.pop();
+            int node= q.front(); 
+            q.pop(); 
 
-            for(int k=0; k<n; k++){
-                if(isConnected[num][k]==1 && !visited[k]){
+            for(int k=0; k<isConnected.size(); k++){
+                if(isConnected[node][k]==1 && !visited[k]){
                     visited[k]=1; 
-                    q.push(k);
+                    q.push(k); 
                 }
-
             }
         }
     }
